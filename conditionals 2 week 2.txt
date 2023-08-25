@@ -1,0 +1,39 @@
+// conditionals 2 week 2
+// question 1
+//     int amount;
+//     cout << "Enter the amount: ";
+//     cin >> amount;
+
+//     int notes[] = {2000, 500, 200, 100, 50, 20, 10, 5, 1};
+//     int noteCount = sizeof(notes) / sizeof(notes[0]);
+
+//     cout << "Minimum number of notes needed:\n";
+
+//     for (int i = 0; i < noteCount; ++i) {
+//         int count = amount / notes[i];
+        
+//         if (count > 0) {
+//             cout << "Notes of \"" << notes[i] << "\" = " << count << endl;
+//         }
+        
+//         amount %= notes[i];
+//     }
+// output:
+// Enter the amount:
+//  520
+// Minimum number of notes needed:   
+// Notes of "500" = 1
+// Notes of "20" = 1
+// question 2
+//  output is:
+//     output:a = 15, b = 15 , c = 0
+// question 3
+// x and y are equal
+// question 4
+
+    // output is :49
+    // question 5
+    // output is :Value of t: 0
+    // question 6
+//   output is :N
+// assigntment finished.
